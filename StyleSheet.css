@@ -1,0 +1,15 @@
+html {
+    background: url(/images/front-bkgnd.png);
+    background-repeat: repeat;
+
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: blue;
+    text-align: center;
+    border: black; 
+    border-width: medium;
+}
+
