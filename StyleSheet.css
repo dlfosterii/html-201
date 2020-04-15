@@ -7,9 +7,11 @@ html {
 h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
-    color: blue;
+    color: black;
     text-align: center;
-    border: black; 
+    border-style: solid ; 
     border-width: medium;
+    border-color: blue;
+    background-color: lightgrey;
 }
 
