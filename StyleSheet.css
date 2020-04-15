@@ -1,8 +1,33 @@
 html{
-    background: url(./images/front-bkgnd.png);
+    
     background-repeat: repeat;
+    }
+
+.homebkgnd {
+    background: url(./images/front-bkgnd.png);
 
 }
+
+.familybkgnd {
+    background: url(./images/fam-sil.png);
+
+}
+
+.schoolbkgnd {
+    background: url(./images/LC-logo.jpg);
+
+}
+
+.workbkgnd {
+    background: url(./images/fresnel.jpg);
+
+}
+
+.hobbiesbkgnd {
+    background: url(./images/animated-bb.gif);
+
+}
+
 
 h1 {
     font-family: 'Times New Roman', Times, serif;
@@ -18,7 +43,7 @@ h1 {
 .menu {
     background-color: white;
     
-    
+
 }
 .container {
     display: flex;
@@ -27,3 +52,25 @@ h1 {
 .container.space-around {
     justify-content: space-around;
   }
+
+  .hello {
+    width: 520px;
+    height: "288px";
+  }
+
+  .intro {
+    
+    align-content: center;
+    background-color: #ccc;
+    padding: 40px;
+    border: 2px solid #999;
+    color: black;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
