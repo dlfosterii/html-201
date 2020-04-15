@@ -1,5 +1,5 @@
-html {
-    background: url(/images/front-bkgnd.png);
+html{
+    background: url(./images/front-bkgnd.png);
     background-repeat: repeat;
 
 }
@@ -15,6 +15,11 @@ h1 {
     background-color: lightgrey;
 }
 
+.menu {
+    background-color: white;
+    
+    
+}
 .container {
     display: flex;
   }
