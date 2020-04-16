@@ -93,3 +93,8 @@ html{
   background-color: lightgray;
   opacity: .75;
 }
+
+.imgsize {
+  width: 400px;
+  height: auto;;
+}
